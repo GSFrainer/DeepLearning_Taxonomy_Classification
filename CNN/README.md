@@ -9,4 +9,4 @@ Files:
 - **analysis.ipynb**: Notebook to generate aggregated batch experiment metrics
 - **batch_run.ipynb**: Model definition and batch experiment script for running training and testing with multiple configurations
 
-> #️⃣Note: Intructions to run the experiments are in the main README file of the project. [(Link)](https://github.com/GSFrainer/DeepLearning_Taxonomy_Classification)
+> #️⃣Note: Instructions for running the experiments are in the project's main README file. [(Link)](https://github.com/GSFrainer/DeepLearning_Taxonomy_Classification)
