@@ -2,7 +2,7 @@
 Reproducible deep learning and baseline experiments for taxonomic classification of 18S rRNA sequences using the developed model and the QIIME 2’s q2-feature-classifier.
 
 > **Note**: 
-*This repository contains only the "prop_0-2/min_10/RandomSplit_0" data split configuration pre-loaded. To generate all data splits for complete experiment, follow the instructions in the [**Installation and Environment Setup**](#how-to-run-the-experiments--reproducibility) section.*
+*This repository contains only the "prop_0-2/min_10/RandomSplit_0" data split configuration pre-loaded as an example. To generate all data splits for complete experiment, follow the instructions in the [**Installation and Environment Setup**](#how-to-run-the-experiments--reproducibility) section.*
 
 
 ## Structure
