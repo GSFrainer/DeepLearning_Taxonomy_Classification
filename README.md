@@ -2,7 +2,7 @@
 Reproducible deep learning and baseline experiments for taxonomic classification of 18S rRNA sequences using the developed model and the QIIME 2’s q2-feature-classifier.
 
 > **Note**: 
-*This repository contains only the "prop_0-2/min_10/RandomSplit_0" data split configuration pre-loaded. To generate all data splits for complete experiment, follow the instructions in the **Installation and Environment Setup > 1. Data Pipeline** section.*
+*This repository contains only the "prop_0-2/min_10/RandomSplit_0" data split configuration pre-loaded. To generate all data splits for complete experiment, follow the instructions in the [**Installation and Environment Setup**](#how-to-run-the-experiments--reproducibility) section.*
 
 
 ## Structure
@@ -109,7 +109,7 @@ Place the original PR2 dataset into:
 ```bash
 ./data/PR2/
 ```
-Note: For the experiments, the "pr2_version_5.0.0_merged" PR2 dataset was used. It can be downloaded in the official PR2 website and official [PR2 GitHub](https://github.com/pr2database/pr2database/releases/tag/v5.0.0) .
+>Note: For the experiments, the "pr2_version_5.0.0_merged" PR2 dataset was used. It can be downloaded in the official PR2 website and official [PR2 GitHub](https://github.com/pr2database/pr2database/releases/tag/v5.0.0) . Alternatively, a copy of the pre-processed dataset can be downloaded as the PR2.zip file by accessing the assets at [>this link<](https://github.com/GSFrainer/DeepLearning_Taxonomy_Classification/releases/tag/rs-data-v1.0).
 
 #### Step 2: Clean and Filter the Raw Data
 Run the following notebook to clean and filter the raw sequences:
