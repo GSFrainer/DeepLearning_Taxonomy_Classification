@@ -1,6 +1,20 @@
 # Classification of living organisms through deep learning: A model for 18S rRNA sequences classification
-Reproducible deep learning and baseline experiments for taxonomic classification of 18S rRNA sequences using the developed model and the QIIME 2’s q2-feature-classifier.
 
+This repository contains the official implementation of the paper:
+
+**Title**: Classification of Living Organisms Through Deep Learning: A Model for 18S rRNA Sequence Classification
+
+**Authors**:
+   - Gustavo Savi Frainer
+   - Duncan Dubugras Alcoba Ruiz
+
+**Status**: Under review
+
+*Details will be updated after the review process.*
+
+---
+## About:
+Reproducible deep learning and baseline experiments for taxonomic classification of 18S rRNA sequences using the developed model and the QIIME 2’s q2-feature-classifier.
 > **Note**: 
 *This repository contains only the "prop_0-2/min_10/RandomSplit_0" data split configuration pre-loaded as an example. To generate all data splits for complete experiment, follow the instructions in the [**Installation and Environment Setup**](#how-to-run-the-experiments--reproducibility) section.*
 
